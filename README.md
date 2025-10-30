@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from iran</h3>
 
 <img align="left" alt"karimi" width = "400" src="src="https://komarev.com/ghpvc/?username=devkarimi&label=Profile%20views&color=0e75b6&style=flat](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNm9tNzN6MXdxaXB6cmRzbmFoeWt1eXR5dGtqNWtxaTR1bW12cWhveSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200w.gif"
+<img align="right" alt="sheikh python" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 - 👯 You can follow the tutorials on the Aparat channel. [https://www.aparat.com/DevKarimi](https://www.aparat.com/DevKarimi)
 
