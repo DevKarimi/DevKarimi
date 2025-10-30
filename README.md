@@ -1,3 +1,4 @@
+![logo](https://github.com/DevKarimi/DevKarimi/blob/main/1.jpg)
 <h1 align="center">Hi 👋, I'm Sepehr Karimi</h1>
 <h3 align="center">A passionate frontend developer from iran</h3>
 
